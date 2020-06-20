@@ -289,6 +289,7 @@ a:hover, a:active, a:focus {
   height:320px;
 }
 
+
 #portfolio .portfolio-thumb .portfolio-overlay {
   position: absolute;
   background: #222;
@@ -353,8 +354,9 @@ a:hover, a:active, a:focus {
   padding-left: 14px;
 }
 
-.centered{
-  align-items: center;
+.img-container {
+  display: block;
+  margin: auto;
 }
 
 
