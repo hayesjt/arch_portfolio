@@ -245,32 +245,6 @@ a:hover, a:active, a:focus {
 }
 
 /*---------------------------------------
-    Home section              
------------------------------------------*/
-
-#home {
-    background-size: cover;
-    background-position: center center;
-    display: -webkit-box;
-    display: -webkit-flex;
-     display: -ms-flexbox;
-    display: flex;
-    -webkit-box-align: center;
-    -webkit-align-items: center;
-    -ms-flex-align: center;
-     align-items: center;
-    position: relative;
-    text-align: center;
-    padding-top: 60px;
-    padding-bottom: 40px;
-}
-
-#home hr {
-  width: 82px;
-  margin-top: 32px;
-}
-
-/*---------------------------------------
    Portfolio section              
 -----------------------------------------*/
 
@@ -388,7 +362,9 @@ footer .footer-copyright {
   padding-top: 16px;
 }
 
-
+footer .contact-container {
+  text-align: center;
+}
 
 
 
